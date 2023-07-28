@@ -1,0 +1,11 @@
+config/**
+.fabric/**
+libraries/**
+mods/luckperms/**
+logs/**
+world/**
+usercache.json
+whitelist.json
+banned-ips.json
+banned-players.json
+ops.json
